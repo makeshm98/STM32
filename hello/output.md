@@ -1,1 +1,1 @@
-![alt text](https://gitlab.com/make8/scd41_co2-stm32/-/raw/main/images/ezgif-5-6d17baf8e4.gif)
+![alt text](https://github.com/makeshm98/STM32/blob/main/hello/ezgif.com-video-to-gif-converter.gif)
