@@ -9,5 +9,8 @@ PA2 should be configured as USART2_TX, and PA15 should be configured as USART2_R
 
 ### AHT20 sensor sample output : 
 
+PA2 should be configured as USART2_TX, and PA15 should be configured as USART2_RX.
+PB8 SCL and PB9 SDA
+
 ![alt text](https://github.com/makeshm98/STM32/blob/main/I2c_01/Screencastfrom10-05-24052154PMIST-ezgif.com-video-to-gif-converter.gif)
 
