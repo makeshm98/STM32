@@ -1,7 +1,9 @@
 # STM32
 ## STM32 projects
 
-### Hello  World output : 
+### Hello  World output :
+
+PA2 should be configured as USART2_TX, and PA15 should be configured as USART2_RX
 
 ![alt text](https://github.com/makeshm98/STM32/blob/main/hello/ezgif.com-video-to-gif-converter.gif)
 
