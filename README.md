@@ -11,7 +11,7 @@ For UART communication PA2 should be configured as USART2_TX, and PA15 should be
 
 * For UART communication PA2 should be configured as USART2_TX, and PA15 should be configured as USART2_RX.
 * For I2C communication PB8 SCL and PB9 SDA.
-* href : https://wiki.st.com/stm32mcu/wiki/Getting_started_with_I2C
+* I2C settings : https://wiki.st.com/stm32mcu/wiki/Getting_started_with_I2C
 
 ![alt text](https://github.com/makeshm98/STM32/blob/main/I2c_01/Screencastfrom10-05-24052154PMIST-ezgif.com-video-to-gif-converter.gif)
 
