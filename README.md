@@ -3,7 +3,7 @@
 
 ### Hello  World output : 
 
-![alt text](![alt text](https://github.com/makeshm98/STM32/blob/main/hello/ezgif.com-video-to-gif-converter.gif))
+![alt text](https://github.com/makeshm98/STM32/blob/main/hello/ezgif.com-video-to-gif-converter.gif)
 
 ### AHT20 sensor sample output : 
 
