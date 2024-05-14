@@ -15,3 +15,7 @@ For UART communication PA2 should be configured as USART2_TX, and PA15 should be
 
 ![alt text](https://github.com/makeshm98/STM32/blob/main/I2c_01/Screencastfrom10-05-24052154PMIST-ezgif.com-video-to-gif-converter.gif)
 
+### Analog pH meter DF robot sample output :
+
+
+![alt text](https://github.com/makeshm98/STM32/blob/main/PH_sensor_stm32/ezgif.com-video-to-gif-converter(2).gif)
