@@ -1,14 +1,14 @@
 # STM32
 ## STM32 projects
 
-### Hello  World output :
+### 1. Hello  World output :
 
 For UART communication PA2 should be configured as USART2_TX, and PA15 should be configured as USART2_RX
 1. [main.c](https://github.com/makeshm98/STM32/blob/main/hello/Core/Src/main.c)
 
 ![alt text](https://github.com/makeshm98/STM32/blob/main/hello/ezgif.com-video-to-gif-converter.gif)
 
-### AHT20 sensor sample output : 
+### 2. AHT20 sensor sample output : 
 
 * For UART communication PA2 should be configured as USART2_TX, and PA15 should be configured as USART2_RX.
 * For I2C communication PB8 SCL and PB9 SDA.
@@ -16,7 +16,7 @@ For UART communication PA2 should be configured as USART2_TX, and PA15 should be
 
 ![alt text](https://github.com/makeshm98/STM32/blob/main/I2c_01/Screencastfrom10-05-24052154PMIST-ezgif.com-video-to-gif-converter.gif)
 
-### Analog pH meter DF robot sample output :
+### 3. Analog pH meter DF robot sample output :
 
 * For UART communication PA2 should be configured as USART2_TX, and PA15 should be configured as USART2_RX
 * For ADC PA0.
