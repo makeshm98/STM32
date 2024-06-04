@@ -4,6 +4,7 @@
 ### Hello  World output :
 
 For UART communication PA2 should be configured as USART2_TX, and PA15 should be configured as USART2_RX
+1. [main.c](https://github.com/makeshm98/STM32/blob/main/hello/Core/Src/main.c)
 
 ![alt text](https://github.com/makeshm98/STM32/blob/main/hello/ezgif.com-video-to-gif-converter.gif)
 
