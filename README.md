@@ -1,7 +1,5 @@
 # STM32
-## STM32 projects
-
-* Sensor integration using "STM32L072CZ" MCU
+## STM32 projects using STM32L072CZ MCU
 
 ### 1. Hello  World output :
 
