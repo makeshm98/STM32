@@ -23,6 +23,8 @@ For UART communication PA2 should be configured as USART2_TX, and PA15 should be
 * For UART communication PA2 should be configured as USART2_TX, and PA15 should be configured as USART2_RX
 * For ADC PA0.
 * ADC setting : https://wiki.st.com/stm32mcu/wiki/Getting_started_with_ADC
+
+  1. [main.c](https://github.com/makeshm98/STM32/blob/main/PH_sensor_stm32/Core/Src/main.c)
   
 ![alt text](https://github.com/makeshm98/STM32/blob/main/PH_sensor_stm32/ezgif.com-video-to-gif-converter(2).gif)
 
