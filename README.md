@@ -14,6 +14,8 @@ For UART communication PA2 should be configured as USART2_TX, and PA15 should be
 * For I2C communication PB8 SCL and PB9 SDA.
 * I2C settings : https://wiki.st.com/stm32mcu/wiki/Getting_started_with_I2C
 
+  1. [main.c](https://github.com/makeshm98/STM32/blob/main/I2c_hal/Core/Src/main.c)
+
 ![alt text](https://github.com/makeshm98/STM32/blob/main/I2c_01/Screencastfrom10-05-24052154PMIST-ezgif.com-video-to-gif-converter.gif)
 
 ### 3. Analog pH meter DF robot sample output :
