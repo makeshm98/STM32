@@ -30,4 +30,6 @@ For UART communication PA2 should be configured as USART2_TX, and PA15 should be
 
 ### 4. SCD41x CO2 sensor sample output :
 
+  1. [main.c](https://github.com/makeshm98/STM32/blob/main/scd41_co2-stm32/co2_i2c/Core/Src/main.c)
+
 ![alt text](https://github.com/makeshm98/STM32/blob/main/scd41_co2-stm32/images/ezgif-5-6d17baf8e4.gif)
