@@ -23,3 +23,7 @@ For UART communication PA2 should be configured as USART2_TX, and PA15 should be
 * ADC setting : https://wiki.st.com/stm32mcu/wiki/Getting_started_with_ADC
   
 ![alt text](https://github.com/makeshm98/STM32/blob/main/PH_sensor_stm32/ezgif.com-video-to-gif-converter(2).gif)
+
+### 4. SCD41x CO2 sensor sample output :
+
+![alt text](https://github.com/makeshm98/STM32/blob/main/scd41_co2-stm32/images/ezgif-5-6d17baf8e4.gif)
