@@ -1,6 +1,8 @@
 # STM32
 ## STM32 projects
 
+* Sensor integration using "STM32L072CZ" MCU
+
 ### 1. Hello  World output :
 
 For UART communication PA2 should be configured as USART2_TX, and PA15 should be configured as USART2_RX
