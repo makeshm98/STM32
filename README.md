@@ -30,6 +30,8 @@ For UART communication PA2 should be configured as USART2_TX, and PA15 should be
   
 ![alt text](https://github.com/makeshm98/STM32/blob/main/PH_sensor_stm32/ezgif.com-video-to-gif-converter(2).gif)
 
+* Measurement of pH for **Hydroponics** project
+
 ### 3. SCD41x CO2 sensor sample output :
 
   1. [main.c](https://github.com/makeshm98/STM32/blob/main/scd41_co2-stm32/co2_i2c/Core/Src/main.c)
